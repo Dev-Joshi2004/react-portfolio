@@ -1,0 +1,12 @@
+:root {
+    /* Colours */
+    --color-text: #fff;
+    --color-primary: #57bc78;     /* Muted medium green */
+    --color-secondary: #1b6d3a;   /* Deep green for contrast */
+    --color-dark: #0b4724;        /* Very dark green tone */
+    --color-bg: #042d15;          /* Almost-black forest green */
+    
+
+    /* Fonts */
+    --font-roboto: "Roboto";
+}
