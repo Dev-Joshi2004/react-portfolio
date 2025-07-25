@@ -1,12 +1,56 @@
-# React + Vite
+# 💼 Dev Joshi - Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website , built using **React** and styled for responsiveness across all devices. It showcases my skills, projects, and professional background in an elegant and interactive way.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 👋 Intro & About Section
+- 📂 Placeholder for Projects
+- 🧑‍💼 Placeholder for Experience
+- 📞 Contact Form
+- 🌙 Light/Dark Mode Support *(if applicable)*
+- 📱 Fully Responsive Design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, HTML5, CSS, JavaScript
+- **Styling:** Custom CSS
+- **Icons & Assets:** React Icons
+- **Deployment:** Netlify 
+
+---
+
+## 📌 Note
+
+> 🔔 The **Projects** and **Experience** sections currently include **placeholder content** or **demo text**.  
+> These areas are intentionally left flexible and will be updated gradually as I:
+> - Complete real-world projects
+> - Gain internship or work experience
+> - Enhance my skill set  
+>
+> This portfolio is a **work in progress**, designed to evolve along with my journey as a developer.
+
+**Live Demo:** https://devjoshiportfolio.netlify.app
+
+---
+
+## 📂 How to Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/Dev-Joshi2004/react-portfolio.git
+
+# Navigate to the project folder
+cd react-portfolio
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+
+**
